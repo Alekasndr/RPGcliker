@@ -29,17 +29,20 @@
 
 Тут игрок выбирает урвень, на котором будет сражаться с мобами/боссом.
 
-  ![MenuScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%201.png)
+  ![MenuScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/New%20Mockup%203.jpg.jpg)
   
 - Экран игры
 
 В окне с игрой мы видим текущего соперника, а так же количество золота, для которое используетсся для прокачки персонажа.
 
-  ![GameScreen](https://github.com/BoryaD/PacMan/blob/master/Images/Mockups/New%20Mockup%204.png)
+  ![GameScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/New%20Mockup%202.jpg.jpg)
   
 - Меню улучшения характеристик
 
 В этом окне мы видим экран, на котором игром сможет прокачать характеристики своего персонажа.
+
+![LevelScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/New%20Mockup%201.jpg.jpg)
+  
 
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
