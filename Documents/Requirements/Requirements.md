@@ -29,19 +29,19 @@
 
 Тут игрок выбирает урвень, на котором будет сражаться с мобами/боссом.
 
-  ![MenuScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/New%20Mockup%203.jpg.jpg)
+  ![MenuScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/Mockups/New%20Mockup%201.png)
   
 - Экран игры
 
 В окне с игрой мы видим текущего соперника, а так же количество золота, для которое используетсся для прокачки персонажа.
 
-  ![GameScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/New%20Mockup%202.jpg.jpg)
+  ![GameScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/Mockups/New%20Mockup%202.png)
   
 - Меню улучшения характеристик
 
 В этом окне мы видим экран, на котором игром сможет прокачать характеристики своего персонажа.
 
-![LevelScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/New%20Mockup%201.jpg.jpg)
+![LevelScreen](https://github.com/Alekasndr/RPGcliker/blob/master/Images/Mockups/New%20Mockup%203.png)
   
 
 
