@@ -8,7 +8,7 @@
 <a name="1"/>
 
 # 1. Начать игру 
-![https://github.com/Alekasndr/RPGcliker/blob/master/Images/Diagrams/Sequence1.png)
+![Диаграмма последовательностей 1](https://github.com/Alekasndr/RPGcliker/blob/master/Images/Diagrams/Sequence1.png)
 
 <a name="2"/>
 
